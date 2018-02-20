@@ -83,6 +83,8 @@
                </font>
             </Label>
             <Label fx:id="dbStatis" layoutX="361.0" layoutY="369.0" textFill="#ff1414" />
+            <Label fx:id="dbStatus" layoutX="371.0" layoutY="373.0" prefHeight="17.0" prefWidth="176.0" />
+            <Label fx:id="loginStatus" layoutX="373.0" layoutY="225.0" prefHeight="25.0" prefWidth="150.0" />
          </children>
       </AnchorPane>
    </children>
